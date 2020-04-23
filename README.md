@@ -1,4 +1,4 @@
-#WAIT FOR THE NEXT VERSIO TO DO THAT
+# WAIT FOR THE NEXT VERSIO TO DO THAT
 
 # Whatsapp-Ban-Bot
 This is a bot who ban a person in a whatsapp group, but this person need to be visible in your screen
