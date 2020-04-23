@@ -10,7 +10,7 @@ print(mouse.position)
 driver = webdriver.Chrome("C:/Users/samta/OneDrive/Programacao/Python/chromedriver.exe")
 driver.get('https://web.whatsapp.com/')
 
-name = input('Quem deseja banir? : ')
+name = input('Who do you want to ban? : ')
 
 input('Enter anything after scanning QR code')
 
