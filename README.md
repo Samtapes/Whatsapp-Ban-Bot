@@ -1,7 +1,7 @@
 # WAIT FOR THE NEXT VERSION TO DO THAT
 
 # Whatsapp-Ban-Bot
-This is a bot who ban a person in a whatsapp group, but this person need to be visible in your screen
+This is a bot who ban a person in a whatsapp group, but do you need to be admin
 
 # Installation
 
