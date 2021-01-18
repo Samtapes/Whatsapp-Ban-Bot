@@ -13,9 +13,10 @@ This is a bot who ban a person in a whatsapp group, but do you need to be admin
 
 
 
-
 # Commands
 
 /help
+
 /ban
+
 /ban confirmation
