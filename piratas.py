@@ -91,18 +91,18 @@ for i in range(9999999999999999999):
 
 
 
-        message_input.send_keys("2- /Ban @'nome_do_contato/número'", Keys.SHIFT + Keys.ENTER, "‎‎‎‎‏‏‎ ‎");
+        message_input.send_keys("2- /Ban @'name_of_the_contact/number'", Keys.SHIFT + Keys.ENTER, "‎‎‎‎‏‏‎ ‎");
 
         message_input.send_keys(Keys.SHIFT, Keys.ENTER);
 
 
-        message_input.send_keys("3- /Ban confirmation   (para desativar ou ativar permissão do líder)", Keys.SHIFT + Keys.ENTER, "‎‎‎‎‏‏‎ ‎");
+        message_input.send_keys("3- /Ban confirmation   (to desactive or active ban for other members)", Keys.SHIFT + Keys.ENTER, "‎‎‎‎‏‏‎ ‎");
 
         message_input.send_keys(Keys.SHIFT, Keys.ENTER);
 
 
 
-        message_input.send_keys("Também existe uns comandos secretos...");
+        message_input.send_keys("Secret...");
 
 
         # Sending the message
@@ -112,68 +112,68 @@ for i in range(9999999999999999999):
 
 
 
-    elif(message.lower() == "/rules"):
-        message_input.send_keys("*REGRAS*", Keys.SHIFT + Keys.ENTER, "‎‎‎‎‏‏‎ ‎"); 
+    # elif(message.lower() == "/rules"):
+    #     message_input.send_keys("*REGRAS*", Keys.SHIFT + Keys.ENTER, "‎‎‎‎‏‏‎ ‎"); 
 
-        message_input.send_keys(Keys.SHIFT, Keys.ENTER);
-
-
-
-        message_input.send_keys("*Stickers (figurinhas) só com moderação*", Keys.SHIFT + Keys.ENTER, "‎‎‎‎‏‏‎ ‎"); 
-
-        message_input.send_keys(Keys.SHIFT, Keys.ENTER);
+    #     message_input.send_keys(Keys.SHIFT, Keys.ENTER);
 
 
 
-        message_input.send_keys("*Proibido*⬇️", Keys.SHIFT + Keys.ENTER, "‎‎‎‎‏‏‎ ‎"); 
+    #     message_input.send_keys("*Stickers (figurinhas) só com moderação*", Keys.SHIFT + Keys.ENTER, "‎‎‎‎‏‏‎ ‎"); 
 
-        message_input.send_keys(Keys.SHIFT, Keys.ENTER);
+    #     message_input.send_keys(Keys.SHIFT, Keys.ENTER);
 
 
 
-        message_input.send_keys("*Divulgações (somente com autorização dos administradores)*", Keys.SHIFT + Keys.ENTER, "‎‎‎‎‏‏‎ ‎"); 
+    #     message_input.send_keys("*Proibido*⬇️", Keys.SHIFT + Keys.ENTER, "‎‎‎‎‏‏‎ ‎"); 
+
+    #     message_input.send_keys(Keys.SHIFT, Keys.ENTER);
+
+
+
+    #     message_input.send_keys("*Divulgações (somente com autorização dos administradores)*", Keys.SHIFT + Keys.ENTER, "‎‎‎‎‏‏‎ ‎"); 
         
-        message_input.send_keys(Keys.SHIFT, Keys.ENTER);
+    #     message_input.send_keys(Keys.SHIFT, Keys.ENTER);
 
 
 
-        message_input.send_keys("*BAN IMEDIATO*", Keys.SHIFT + Keys.ENTER, "‎‎‎‎‏‏‎ ‎");
+    #     message_input.send_keys("*BAN IMEDIATO*", Keys.SHIFT + Keys.ENTER, "‎‎‎‎‏‏‎ ‎");
 
-        message_input.send_keys(Keys.SHIFT, Keys.ENTER);
+    #     message_input.send_keys(Keys.SHIFT, Keys.ENTER);
 
 
 
-        message_input.send_keys("*Textos muito grandes e sem lógica nenhuma*", Keys.SHIFT + Keys.ENTER, "‎‎‎‎‏‏‎ ‎");
+    #     message_input.send_keys("*Textos muito grandes e sem lógica nenhuma*", Keys.SHIFT + Keys.ENTER, "‎‎‎‎‏‏‎ ‎");
         
-        message_input.send_keys(Keys.SHIFT, Keys.ENTER);
+    #     message_input.send_keys(Keys.SHIFT, Keys.ENTER);
 
 
 
-        message_input.send_keys("*Conteúdo relacionado a pornografia, zoofilia e etc...*", Keys.SHIFT + Keys.ENTER, "‎‎‎‎‏‏‎ ‎");
+    #     message_input.send_keys("*Conteúdo relacionado a pornografia, zoofilia e etc...*", Keys.SHIFT + Keys.ENTER, "‎‎‎‎‏‏‎ ‎");
         
-        message_input.send_keys(Keys.SHIFT, Keys.ENTER);
+    #     message_input.send_keys(Keys.SHIFT, Keys.ENTER);
 
 
 
-        message_input.send_keys("*Links externos sem permissão*", Keys.SHIFT + Keys.ENTER, "‎‎‎‎‏‏‎ ‎");
+    #     message_input.send_keys("*Links externos sem permissão*", Keys.SHIFT + Keys.ENTER, "‎‎‎‎‏‏‎ ‎");
         
-        message_input.send_keys(Keys.SHIFT, Keys.ENTER);
+    #     message_input.send_keys(Keys.SHIFT, Keys.ENTER);
 
 
 
 
-        message_input.send_keys("*Reclamações ou dúvidas falar com os administradores*", Keys.SHIFT + Keys.ENTER, "‎‎‎‎‏‏‎ ‎");
+    #     message_input.send_keys("*Reclamações ou dúvidas falar com os administradores*", Keys.SHIFT + Keys.ENTER, "‎‎‎‎‏‏‎ ‎");
         
-        message_input.send_keys(Keys.SHIFT, Keys.ENTER);
+    #     message_input.send_keys(Keys.SHIFT, Keys.ENTER);
 
 
 
-        message_input.send_keys("*Seja ativo*");
+    #     message_input.send_keys("*Seja ativo*");
         
 
 
 
-        send_message.click();
+    #     send_message.click();
 
 
 
